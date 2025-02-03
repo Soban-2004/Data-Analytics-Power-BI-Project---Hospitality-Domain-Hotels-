@@ -35,5 +35,3 @@ This project provides an **in-depth analysis of the hospitality industry** using
 ## 📌 Conclusion
 This Power BI project provides actionable insights for the **hotel industry**, helping stakeholders optimize revenue, improve occupancy rates, and enhance guest experiences.
 
-👨‍💻 **Developed by:** [Your Name]  
-📧 Contact: [Your Email]  
