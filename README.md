@@ -12,7 +12,7 @@ This project provides an **in-depth analysis of the hospitality industry** using
 - **🛏️ Booking Platform Performance:** Realization % and ADR by different platforms like **LogTrip, Journey, Direct Online, etc.**.
 
 ## 📌 Dashboard Preview
-![Power BI Dashboard](images/Screenshot 2025-02-03 213633.png)
+![Power BI Dashboard](images/dashboard.png)
 
 ## 📂 Data Sources
 - **Bookings Data:** Room type, booking platform, check-in/check-out dates.
@@ -30,10 +30,7 @@ This project provides an **in-depth analysis of the hospitality industry** using
 3. Connect to the dataset (if required).
 4. Explore the visualizations and interact with the filters.
 
-📥 **Download Report:** [hospitality_dashboard.pbix](https://github.com/your-repo/hospitality_dashboard.pbix)  
-
-## 🌍 Live Dashboard (If Hosted)
-🔗 **View Interactive Report:** [Power BI Live Link](https://app.powerbi.com/view?r=your-report-id)  
+📥 **Download Report:** [hospitality_dashboard.pbix](https://github.com/your-repo/hospitality_dashboard.pbix)   
 
 ## 📌 Conclusion
 This Power BI project provides actionable insights for the **hotel industry**, helping stakeholders optimize revenue, improve occupancy rates, and enhance guest experiences.
