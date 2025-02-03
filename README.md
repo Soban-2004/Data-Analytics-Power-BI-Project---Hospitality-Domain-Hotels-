@@ -30,7 +30,7 @@ This project provides an **in-depth analysis of the hospitality industry** using
 3. Connect to the dataset (if required).
 4. Explore the visualizations and interact with the filters.
 
-📥 **Download Report:** [hospitality_dashboard.pbix](https://github.com/your-repo/hospitality_dashboard.pbix)   
+📥 **Download Report:** [hospitality_dashboard.pbix](https://github.com/Soban-2004/Power-BI-Project-Hospitality-Domain/hotels.pbix)   
 
 ## 📌 Conclusion
 This Power BI project provides actionable insights for the **hotel industry**, helping stakeholders optimize revenue, improve occupancy rates, and enhance guest experiences.
