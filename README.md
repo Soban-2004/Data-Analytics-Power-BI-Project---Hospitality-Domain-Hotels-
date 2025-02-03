@@ -22,7 +22,7 @@ This project provides an **in-depth analysis of the hospitality industry** using
 ## 🛠️ Tools Used
 - **Power BI** (for visualization)
 - **Excel/CSV** (for raw data processing)
-- **SQL (optional)** (for data transformation)
+- **Power Query** (for data transformation)
 
 ## 🚀 How to Use
 1. **Download the `.pbix` file** from this repository.
